@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
